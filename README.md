@@ -4,6 +4,7 @@
 
 -Bubble Sort
 -Merge Sort
+-Insertion Sort
 -Quick Sort
 -Selection Sort
 -Binary Search
