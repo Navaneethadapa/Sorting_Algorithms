@@ -8,5 +8,6 @@
 -Quick Sort
 -Selection Sort
 -Binary Search
+-Linear Search
 
 ```
